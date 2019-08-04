@@ -17,4 +17,4 @@
   
 - [ ] Open a pull request
 
-@github/support What do you think about these updates?
+:+1:
